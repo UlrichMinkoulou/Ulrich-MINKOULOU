@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="capsule-render.vercel.app|%20VHDL%20|%20Embedded%20Systems&descAlignY=70&descSize=25" />
-</p>
 
+<div align="center">
+  <!-- Tout ce qui est ici sera centré et paraîtra plus "imposant" -->
 # Ulrich-MINKOULOU
 I am an Industrial Computing Engineer who has specialized in Embedded Systems. I primarily develop in C/C++ for the design of firmware for robots and embedded systems. I use Qt for GUI creation, as well as C# and VB. My strengths include electronic design, PCBs, FPGAs, signal processing, cryptography for embedded systems (microcontrollers and FPGAs), AI, and more. I am currently seeking a PhD position.
 
@@ -22,3 +21,9 @@ I am an Industrial Computing Engineer who has specialized in Embedded Systems. I
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=styczynski&show_icons=true" alt="styczynski" /></p>
 
 <i>Generated automatically 2026-01-14</i>
+  <h1> 🚀 DÉVELOPPEUR SYSTÈMES EMBARQUÉS & C++ </h1>
+</div>
+<p align="center">
+  <img src="capsule-render.vercel.app|%20VHDL%20|%20Embedded%20Systems&descAlignY=70&descSize=25" />
+</p>
+
