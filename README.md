@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="capsule-render.vercel.app|%20VHDL%20|%20Embedded%20Systems&descAlignY=70&descSize=25" />
+</p>
+
 # Ulrich-MINKOULOU
 I am an Industrial Computing Engineer who has specialized in Embedded Systems. I primarily develop in C/C++ for the design of firmware for robots and embedded systems. I use Qt for GUI creation, as well as C# and VB. My strengths include electronic design, PCBs, FPGAs, signal processing, cryptography for embedded systems (microcontrollers and FPGAs), AI, and more. I am currently seeking a PhD position.
 
