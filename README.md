@@ -7,12 +7,6 @@ I am an Industrial Computing Engineer who has specialized in Embedded Systems. I
 
 ### Contact me :
 
-[![LinkedIn](img.shields.io)]([www.linkedin.com](https://www.linkedin.com/in/ulrich-minkoulou-a022121b1/))
-[![X](img.shields.io)]([x.com](https://x.com/ulrich_mink_))
-[![GitHub](img.shields.io)]([github.com](https://github.com/UlrichMinkoulou))
-[![Outlook](img.shields.io)](mailto:mink.ing97@outllok.fr)
-[![Gmail](img.shields.io)](mailto:ulrichminkouloucmr@gmail.com)
-
 <a href="https://www.linkedin.com/in/ulrich-minkoulou-a022121b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/UlrichMinkoulou"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:ulrichminkouloucmr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -24,8 +18,7 @@ I am an Industrial Computing Engineer who has specialized in Embedded Systems. I
 <h1 align="center">@ulrichminkoulou</h1>
 <h3 align="center">Embedded System Engineer || CEO Drone.Solutions Eng</h3>
 
-I was a co-founder (shareholder) until 15 July 2022 (KRS update on 3 Jun 2022) in Covid Genomics Sp. z o.o. (registered in Poland in Jun 2020, KRS 0000846289) which then changed its legal name to CGen Sp. z o.o. (on 3 Jun 2022) and then changed its branding name to Deepflare (on Jul 2022). I was also a Chief Engineering Officer from 1 Apr 2020 till 31 Aug 2022.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=styczynski&show_icons=true" alt="styczynski" /></p>
 
-<i>Generated automatically 2022-07-27</i>
+<i>Generated automatically 2026-01-14</i>
