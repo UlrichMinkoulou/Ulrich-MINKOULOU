@@ -26,3 +26,10 @@ I am an Industrial Computing Engineer who has specialized in Embedded Systems. I
   <img height="180em" src="github-readme-stats.vercel.app" />
 </p>
 
+<p align="center">
+  <img src="github-readme-activity-graph.vercel.app" width="100%" />
+</p>
+## 🚀 Technologies & Outils
+<p align="center">
+  <img src="skillicons.dev" />
+</p>
