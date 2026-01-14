@@ -16,7 +16,7 @@ I am an Industrial Computing Engineer who has specialized in Embedded Systems. I
 <a href="https://codepen.io/isis97/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a> -->
 
 <h1 align="center">@ulrichminkoulou</h1>
-<h3 align="center">Embedded System Engineer || CEO Drone.Solutions Eng</h3>
+<h3 align="center">Embedded System Engineer || CEO Drone.Solutions </h3>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=styczynski&show_icons=true" alt="styczynski" /></p>
