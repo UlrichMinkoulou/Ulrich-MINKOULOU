@@ -12,3 +12,17 @@ I am an Industrial Computing Engineer who has specialized in Embedded Systems. I
 [![GitHub](img.shields.io)]([github.com](https://github.com/UlrichMinkoulou))
 [![Outlook](img.shields.io)](mailto:mink.ing97@outllok.fr)
 [![Gmail](img.shields.io)](mailto:ulrichminkouloucmr@gmail.com)
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ulrich-minkoulou-a022121b1/"><img src="img.shields.io" /></a>
+<a href="https://x.com/ulrich_mink_"><img src="img.shields.io" /></a>
+<a href="https://github.com/UlrichMinkoulou"><img src="img.shields.io" /></a>
+<a href="mailto:mink.ing97@outllok.fr"><img src="img.shields.io" /></a>
+<a href="mailto:mailto:ulrichminkouloucmr@gmail.com"><img src="img.shields.io" /></a>
+</p>
+
+<p align="center">
+  <img height="180em" src="github-readme-stats.vercel.app" />
+  <img height="180em" src="github-readme-stats.vercel.app" />
+</p>
+
